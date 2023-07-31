@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Nav-BgStyle---React/static/css/main.0ea6620e.css",
+    "main.js": "/Nav-BgStyle---React/static/js/main.b98d11e5.js",
+    "static/media/3163f6fd.mp4": "/Nav-BgStyle---React/static/media/3163f6fd.fb2c52763def9e6b2c36.mp4",
+    "static/media/e8a42d63.mp4": "/Nav-BgStyle---React/static/media/e8a42d63.51307be9034fc981b379.mp4",
+    "static/media/cd31ec65.mp4": "/Nav-BgStyle---React/static/media/cd31ec65.1a2c35eb5bb94cf5d5be.mp4",
+    "static/media/4c0d41ab.mp4": "/Nav-BgStyle---React/static/media/4c0d41ab.753bf71c3b9f8d62afe9.mp4",
+    "static/media/7dac71e5.mp4": "/Nav-BgStyle---React/static/media/7dac71e5.d113dceeae0c8f0fb498.mp4",
+    "static/media/8b5956ac.mp4": "/Nav-BgStyle---React/static/media/8b5956ac.314fb6f778bec784f4b1.mp4",
+    "static/media/f005227d.mp4": "/Nav-BgStyle---React/static/media/f005227d.a6048f11c8ec864b826e.mp4",
+    "static/media/logoGig.png": "/Nav-BgStyle---React/static/media/logoGig.e760ed503c6d2e32a127.png",
+    "index.html": "/Nav-BgStyle---React/index.html",
+    "main.0ea6620e.css.map": "/Nav-BgStyle---React/static/css/main.0ea6620e.css.map",
+    "main.b98d11e5.js.map": "/Nav-BgStyle---React/static/js/main.b98d11e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ea6620e.css",
+    "static/js/main.b98d11e5.js"
+  ]
+}
