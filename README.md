@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+published on: https://nazardoss.github.io/Nav-BgStyle---React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
